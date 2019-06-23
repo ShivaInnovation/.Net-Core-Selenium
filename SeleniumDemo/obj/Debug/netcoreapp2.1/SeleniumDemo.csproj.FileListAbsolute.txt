@@ -1,0 +1,14 @@
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\SeleniumDemo.deps.json
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\SeleniumDemo.runtimeconfig.json
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\SeleniumDemo.runtimeconfig.dev.json
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\SeleniumDemo.dll
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\obj\Debug\netcoreapp2.1\SeleniumDemo.csproj.CoreCompileInputs.cache
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\obj\Debug\netcoreapp2.1\SeleniumDemo.AssemblyInfoInputs.cache
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\obj\Debug\netcoreapp2.1\SeleniumDemo.AssemblyInfo.cs
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\SeleniumDemo.pdb
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\obj\Debug\netcoreapp2.1\SeleniumDemo.dll
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\obj\Debug\netcoreapp2.1\SeleniumDemo.pdb
+E:\Interview_Hands_On\CI_CD\SeleniumDemo\SeleniumDemo\bin\Debug\netcoreapp2.1\chromedriver.exe
